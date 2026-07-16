@@ -1,6 +1,0 @@
-Since this repository only hosts the GitHub pages deployment artifacts, the Vue source code is patched in a temporary cloned source repo, built with Vite, and the resulting dist files (minified JS/CSS and index.html) are pushed to this repository.
-
-Updates include:
-- Standardized tab layout (replaced buttons with divs and properly connected borders for Interactive and Source modes).
-- AI model customization allowing users to select and store desired Google/OpenRouter models.
-- Replaced hardcoded HEX colors with CSS variables to ensure uniform Dark Mode styling across all components.
